@@ -1,2 +1,2 @@
-# detols.github.io
+# minericpark.github.io
 My personal website
