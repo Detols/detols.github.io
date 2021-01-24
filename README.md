@@ -1,6 +1,7 @@
 # minericpark.github.io
 My personal website
 
+Project/Webpage has been replaced by [minericpark.github.io-redesign](https://github.com/minericpark/minericpark.github.io-redesign)
 
 ### minericpark.github.io
 
@@ -21,7 +22,8 @@ My personal website
 - Implement media into webstie (media players, spotify, etc.)
 - Improve the aesthetic of the website
 
+- Project has been replaced. Todos have mostly been implemented in the new project named above.
+
 ### Contact
 - epark03@uoguelph.ca
 
-### License
